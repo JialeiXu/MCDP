@@ -2,6 +2,9 @@ MCDP
 ====
 Multi-Camera Collaborative Depth Prediction via Consistent Structure Estimation (ACMMM 2022)
 -----
+We provide the [download link](https://drive.google.com/drive/folders/1ZmqE9BeJuzipzhFAHYd6jDhBYdAtftBN?usp=share_link) to
+-  pretraiined models of m=2
+
 This project is being continuously updated
 
     @inproceedings{xu2022multi,
