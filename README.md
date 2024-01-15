@@ -5,7 +5,7 @@ Multi-Camera Collaborative Depth Prediction via Consistent Structure Estimation 
 We provide the [download link](https://drive.google.com/drive/folders/1ZmqE9BeJuzipzhFAHYd6jDhBYdAtftBN?usp=share_link) to
 -  pretrained models of m=2
 
-This project is being continuously updated
+
 
     @inproceedings{xu2022multi,
     title={Multi-Camera Collaborative Depth Prediction via Consistent Structure Estimation},
